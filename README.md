@@ -19,3 +19,7 @@ Hi there! 👋🏻 I'm Açelya Ünal<br>👩🏻‍💻 Software Engineer | 💖
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+![snake gif](https://github.com/acelyaunal/acelyaunal/blob/output/github-contribution-grid-snake.gif)
