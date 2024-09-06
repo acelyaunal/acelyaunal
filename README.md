@@ -1,5 +1,10 @@
-# 💫 About Me:
-Hi there! 👋🏻 I'm Açelya Ünal<br>👩🏻‍💻 Software Engineer | 💖 <br>🌸 Full-Stack Developer |<br>💻  Istanbul, Turkey <br><br>🎓 I recently graduated from Istanbul Okan University with a degree in Software Engineering.<br>💡 I'm skilled in Angular and ASP.NET Core for creating full-stack applications.<br>🔧 I love tackling both frontend and backend challenges.<br>🌱 I’m always eager to learn new technologies and improve myself.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Açelya+Ünal!;&center=true&size=30&color=800080">
+  </a>
+</h1>
+
+<br>👩🏻‍💻 Software Engineer | 💖 <br>🌸 Full-Stack Developer |<br>💻  Istanbul, Turkey <br><br>🎓 I recently graduated from Istanbul Okan University with a degree in Software Engineering.<br>💡 I'm skilled in Angular and ASP.NET Core for creating full-stack applications.<br>🔧 I love tackling both frontend and backend challenges.<br>🌱 I’m always eager to learn new technologies and improve myself.
 
 
 ## 🌐 Socials:
@@ -28,3 +33,4 @@ Hi there! 👋🏻 I'm Açelya Ünal<br>👩🏻‍💻 Software Engineer | 💖
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/acelyaunal/acelyaunal/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/acelyaunal/acelyaunal/output/github-contribution-grid-snake.svg">
 </picture>
+
