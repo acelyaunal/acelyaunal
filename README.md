@@ -6,7 +6,7 @@
 
 <h3 align="center">👩🏻‍💻 Software Engineer | 💖 Full-Stack Developer | 🌸 Istanbul, Turkey</h3>
 
----
+
 
 ### 💫 About Me
 🎓 Graduated in **Software Engineering** from *Istanbul Okan University*  
@@ -14,14 +14,14 @@
 🔧 Passionate about both **frontend** & **backend** challenges  
 🌱 Always eager to **learn**, **build**, and **improve**
 
----
+
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/acelyaunal)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/acelyaunal)
 
----
+
 
 ## 💻 Tech Stack
 
@@ -47,7 +47,7 @@
 ![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -55,13 +55,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=acelyaunal&theme=rose&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=acelyaunal&theme=rose&hide_border=true&layout=compact)
 
----
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=acelyaunal&theme=rose&no-frame=true&no-bg=false&margin-w=4)
 
----
+
 
 
 
